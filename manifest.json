@@ -1,6 +1,6 @@
 {
-  "name": "Sudoku",
-  "short_name": "Sudoku",
+  "name": "mathtrainer",
+  "short_name": "mathtrainer",
   "icons": [
     {
       "src": "./images/icons/icon-128x128.png",

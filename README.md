@@ -1,9 +1,7 @@
 # Sudoku
 
-This is a progressive web app templat which is going to be developed into
-a sudoku game, that can run on Windows, OSX, Linux, Android and IPhone.
-Currently it is a multiplication trainer but I am working on changing it into
-a sudoku game.
+This is a progressive web app templat that can run on Windows, OSX, Linux, Android and IPhone.
+It is a multiplication trainer.
 
 ## Table of Contents
 
@@ -16,19 +14,19 @@ To run this project, you will need a web browser.
 And then click on the install button right next to the input bar.
 Or go to setting and click on install app. Best use chrome.
 
-You can play it here https://kabumm007.github.io/sudoku/
+You can play it here https://kabumm007.github.io/mathtrainer/
 ### Installation
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/kabumm007/sudoku.git
+    git clone https://github.com/kabumm007/mathtrainer.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd calculator
+    cd mathtrainer
     ```
 
 3. Open the `index.html` file in your web browser.
