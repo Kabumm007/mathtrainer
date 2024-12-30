@@ -17,7 +17,7 @@ async function start(){
         a=Math.floor(Math.random() * maxzahl);
         b=Math.floor(Math.random() * maxzahl);
         c=a*b
-        let antwort=prompt("was ist "+a+" mal "+b)
+        let antwort=prompt("what is "+a+" times "+b)
         if(c==antwort) korrektfeld.innerHTML="right"
         else  korrektfeld.innerHTML="wrong"
         await Sleep(1000)
